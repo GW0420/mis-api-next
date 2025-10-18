@@ -43,7 +43,7 @@ spring:
       database: data
       #admin是MongoDB用于验证用户身份的逻辑库
       authentication-database: admin
-      username: admin
+      username: root
       password: abc123456
   redis:
     database: 0
